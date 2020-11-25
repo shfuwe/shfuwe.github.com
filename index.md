@@ -1,37 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shfuwe/shfuwe.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Shen Fuwen from the 2017 Computer Science and Technology Major of Northwestern University. During my college years, I have been strict with myself in my study. I won the third-class scholarship in both my freshman and sophomore years, ranked the third in my class in the overall ranking in my junior year, and won the first-class scholarship. My GPA is of 3.29 credits, which ranks at 8/89, in the course: program design basis (C) (91), the data structure (94), computer constitute principle (90), object facing programming (C + +) (90), computer graphics (93), the operating system (94), the compilation techniques (91), computer architecture (91), etc., these courses make me have good computer basis, and make me deeply realize the basic qualities that a student majoring in computer science and technology must have. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have also taken an active part in various competitions. I have participated in the Mathematical Modeling National Competition for 19 years and the Mathematical Modeling Beauty Competition for 20 years as a programmer, and have won the provincial first prize and Honorable Mention prize. In the competition, through the flexible use of C++, matlab, python and other tools, I learned how to apply programming to solve practical problems, and learned how to learn and quickly apply new knowledge. 
 
-### Markdown
+In my daily life, I am good at thinking and applying what I have learned: Because of the need of English learning, I have written word frequency statistics, word frequency statistics, word list combination, word list intersection, etc., all kinds of operation word list and extracting word code. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In English study, my cet-6 gets 477, and my Duolingo English test score is 110. believe that I have enough English language ability. And plus, I have been studying TOEFL, reciting words and practicing listening to improve my English ability.
+
+### Email
 
 ```markdown
-Syntax highlighted code block
+please contact me with 2326922609@qq.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shfuwe/shfuwe.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
