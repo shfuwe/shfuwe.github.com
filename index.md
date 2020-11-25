@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to My Page
 
 I am Shen Fuwen from the 2017 Computer Science and Technology Major of Northwestern University. During my college years, I have been strict with myself in my study. I won the third-class scholarship in both my freshman and sophomore years, ranked the third in my class in the overall ranking in my junior year, and won the first-class scholarship. My GPA is of 3.29 credits, which ranks at 8/89, in the course: program design basis (C) (91), the data structure (94), computer constitute principle (90), object facing programming (C + +) (90), computer graphics (93), the operating system (94), the compilation techniques (91), computer architecture (91), etc., these courses make me have good computer basis, and make me deeply realize the basic qualities that a student majoring in computer science and technology must have. 
 
@@ -10,6 +10,7 @@ In English study, my cet-6 gets 477, and my Duolingo English test score is 110. 
 
 ### Email
 
-```markdown
 please contact me with 2326922609@qq.com
 
+### My Codes
+https://github.com/shfuwe/
